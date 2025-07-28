@@ -1,4 +1,4 @@
-# Welcome, I 'm Heiko!
+# Welcome, I'm Heiko!
 
 ## Leadership & Technical Expertise
 I am a seasoned software development manager and former engineer who thrives at the intersection of technology, user experience and business. As an engineering manager, I have directed sizable engineering organizations, brought multiple products to market, and guided teams through the ebb and flow of high performance.
